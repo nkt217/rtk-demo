@@ -1,4 +1,4 @@
-[<img src="https://i.imgur.com/NWIItWo.png"/>]
+<img src="https://i.imgur.com/NWIItWo.png"/>
 
 | PASSWORD:  | 2024 |
 | ------------- | ------------- |
